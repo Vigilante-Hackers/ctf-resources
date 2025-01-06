@@ -31,4 +31,5 @@ This repository contains resources and tools for anything that relates to a CTF.
 These are subdivided into folders, each of which touches upon a certain subtopic
 and has resources for those.
 
-
+[Challenges.md](./Challenges.md) contains various websites that have collections
+of challenges for you to practice.
